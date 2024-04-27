@@ -1,0 +1,7 @@
+Washington D.C.  (340,867)
+London  (1725,624)
+Paris  (1742,851)
+Berlin  (2098,713)
+St. Petersburg  (2554,379)
+Tokyo  (5202,1315)
+Beijing  (4570,1190)

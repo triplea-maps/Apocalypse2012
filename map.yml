@@ -1,0 +1,5 @@
+map_name: Apocalypse2012
+games:
+- game_name: 'Apocalypse: 2012'
+  file_name: Apocalypse2012.xml
+version: 0
